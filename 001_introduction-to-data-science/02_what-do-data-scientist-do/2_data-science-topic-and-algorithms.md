@@ -21,3 +21,14 @@
 # Note
 - Using complicated machine learning algorithms does not always guarantee achieving a better performance. Occasionally, a simple algorithm such as k-nearest neighbor can yield a satisfactory performance comparable to the one achieved using a complicated algorithm. It all depends on the data
 - In any field, and data science is no different, a simple solution is always preferred over a complicated one, especially if the performance is comparable.
+
+
+- Regression analisis —> form dari predictive model teknik yang menginvestigate dipendent dan independent variabel
+    - data dibagi 2 dipendent variable dan independent variable
+    - Dipendent Variable —> variable yang tergantung kepada variable independen (mempengaruhi)
+    - Dipendent —> dipengaruhi
+    - Independent —> mempengaruhi
+    - ex. berat badan (dependent variable): dipengaruhi oleh makanan, hormon, dkk (independent variable) —> yang paling signifikan memengaruhi : makanan
+        - ada variable yang berpengaruh positif dan negatif
+        - ex. negatif : olah raga, stress, dll (berat badan mennurun) 
+        - ex. positif : makanan (makin banyak makan makin gendut)
