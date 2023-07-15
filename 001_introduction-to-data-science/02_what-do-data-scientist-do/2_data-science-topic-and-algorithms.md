@@ -17,3 +17,7 @@
 - Regression tells you what the base fare is and what is the relationship between time and the fare you have paid, and the distance you have traveled and the fare you've paid
 - regression allows you to compute that constant that you didn't know. That it was $2.50, and it would compute the relationship between the fare and and the distance and the fare and the time.
 - That is regression
+
+# Note
+- Using complicated machine learning algorithms does not always guarantee achieving a better performance. Occasionally, a simple algorithm such as k-nearest neighbor can yield a satisfactory performance comparable to the one achieved using a complicated algorithm. It all depends on the data
+- In any field, and data science is no different, a simple solution is always preferred over a complicated one, especially if the performance is comparable.
