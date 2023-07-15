@@ -19,4 +19,4 @@
     - Using multiple models to explore the data reveals patterns and outliers;
     - sometimes, this will confirm what the organization suspects, but sometimes it will be completely new knowledge, leading the organization to a new approach.
     - When the data has revealed its insights, the role of the data scientist becomes that of a storyteller, communicating the results to the project stakeholders
-    - se powerful data visualization tools to help stakeholders understand the nature of the results, and the recommended action to take. Data Science is changing the way we work
+    - use powerful data visualization tools to help stakeholders understand the nature of the results, and the recommended action to take. Data Science is changing the way we work
