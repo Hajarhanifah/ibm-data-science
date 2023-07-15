@@ -32,3 +32,43 @@
         - ada variable yang berpengaruh positif dan negatif
         - ex. negatif : olah raga, stress, dll (berat badan mennurun) 
         - ex. positif : makanan (makin banyak makan makin gendut)
+     
+## PENGGUNAAN REGRESION
+- menentukan strength predictord
+- forcasting an effect 
+- menentukan trend forcasting —> bakal naik atau tidak berat badannya?
+
+
+## LINIAR VS LOGISTIC REGRESSION
+- Linear 
+    - menggunakan straightline method
+    - menggunakan continues variable (berat badan, gaji, umur)
+    - output = value
+- Logistic (categorical variable)
+    - menggunakan signoid
+    - output = probabilitas
+
+## LINEAR REGRESSION 
+- metode untuk memprediksi dipendent variable berdasarkan values independen variable X yang dapat digunakan untuk kasu2 yang sifatnya kontinyu (berat badan, gaji, umur, dll)
+- Selection Criteria
+    - classification and regression capabilities —> memastikan tools yang dipakai bisa melakukan regresi
+    - data quality —> data berkualitas / bukan missing data
+    - computational complexity —>  komputasi bisa menggunakan phyton, R, dsb
+    - comperhensible and transparent —>
+- SERING DIGUNAKAN
+    - evaluasi trends dan sales 
+        - memperkirakan sales akan naik/ turun menjadi berapa persen ??
+    - Analyzing the impact of price change
+        - ketika harga berubah, variable mana yang bisa memengaruhi orang untuk membeli / penjualan
+    - Risk Management 
+        - lihat resiko yang terjadi
+        - mana yang paling beresiko dan tidak
+
+## LINEAR REGRESSION ALGORITHM 
+
+
+## R SQUERE 
+- Statictical measure, ttg seberapa dekatnya dengan regresi yang sempurna/
+- koofesien dari multiple regression
+- seberapa besar presentase model terhadap hasil
+
