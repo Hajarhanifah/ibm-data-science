@@ -1,6 +1,6 @@
 - Regression : help to understand the data
 - Data visualization : a key element for people to get across their message to people that don't understand that well what data science is
-- Artificial neural networks : we have a lot to learn with nature so when we are trying to mimic our, our brain
+- Artificial neural networks : we have a lot to learn with nature so when we are trying to mimic our, our brain we can do some applications with this behavior with this biological behavior in algorithms.
 - Data visualization with R : to gets the best results so many more times than some overblown, overworked algorithm that's just as likely to overfit as it is to make a good fit.
 - So structured data : is more like tabular data things that you’re familiar with in Microsoft Excel format (rows and columns that's called structured data)
 - Unstructured data : is basically data that is coming from mostly from web where it's not tabular (text, video, audio <<-- need to deploy more sophisticated algorithms to extract cata)
