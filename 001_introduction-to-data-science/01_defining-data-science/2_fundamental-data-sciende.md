@@ -1,0 +1,22 @@
+# Fundamental of Data Science
+- Data science has a significant data analysis component
+- Data Analytic Sources
+    - log files,
+    - email,
+    - social media,
+    -  sales data,
+    -  patient information files,
+    - sports performance data,
+    - sensor data,
+    - security cameras,
+    - and many more besides.
+-  Data science can help organizations understand their environments, analyze existing issues, and reveal previously hidden opportunities.
+-  Data scientists use data analysis to add to the knowledge of the organization by investigating data, exploring the best way to use it to provide value to the business.
+-   Good data scientists are curious people who ask questions to clarify the business need.
+    - "what data do we need to solve the problem, and where will that data come from?".
+- Data scientists can
+    - analyze structured and unstructured data from many sources, and depending on the nature of the problem, they can choose to analyze the data in different ways.
+    - Using multiple models to explore the data reveals patterns and outliers;
+    - sometimes, this will confirm what the organization suspects, but sometimes it will be completely new knowledge, leading the organization to a new approach.
+    - When the data has revealed its insights, the role of the data scientist becomes that of a storyteller, communicating the results to the project stakeholders
+    - se powerful data visualization tools to help stakeholders understand the nature of the results, and the recommended action to take. Data Science is changing the way we work
