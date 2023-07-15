@@ -1,0 +1,12 @@
+- Cloud is a godsend for data scientists
+  - we can be able to take [the] your data, take your information and put it in the Cloud, put it in a central storage system.
+  - bypass the physical limitations of the computers and the systems
+  - deploy the analytics and storage capacities of advanced machines that do not necessarily have to be in our machine / company's machine
+  - Cloud allows us to not just to store large amounts of data on servers somewhere --> also allows ua to deploy very advanced computing algorithms and and ability to do high-performance computing that are not yours
+  - information and algorithms on very large datasets--> send to storage space (cloud)
+  - allows multiple entities to work with same data at the same time.
+  - enables to get instant access to open source technologies like Apache Spark without the need to install and configure them locally.
+  - gives an  access to the most up-to-date tools and libraries without the worry of maintaining them and ensuring that they are up to date
+  - The Cloud is accessible from everywhere and in every time zone.
+  - IBM offers the IBM Cloud, Amazon offers Amazon Web Services or AWS, and Google offers Google Cloud platform
+    
