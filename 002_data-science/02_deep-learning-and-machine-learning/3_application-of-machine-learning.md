@@ -1,0 +1,6 @@
+- Classifications, cluster analysis, trying to find some of the marketing questions from 20 years ago, market basket analysis, what goods tend to be bought together.
+- predictive analytics is another area of machine learning
+  - We're using new techniques to predict things that statisticians don't particularly like
+  - Decision trees, Bayesian Analysis, naive Bayes, lots of different techniques.
+  - in packages like R now, you really have to understand how these techniques can be used and you don't have to know exactly how to do them but you have to understand what their meanings are.
+- machine learning implementation on netflix video recomencation
