@@ -3,13 +3,13 @@
 
 ## BIG DATA CLUSTER
 - Biig data cluster :
-  1. took the data -->
-  2. disdtributed and replicated each piece / triplicated each piece -->
-  3. send the pieces of these files to thousands of computers first it was hundreds but then now it's thousands now it's tens of thousands -->
-  4. would send the same program to all these computers in the cluster -->
-  5. each computer would run the program on its little piece of the file and send the results back. -->
-  6. The results would then be sorted & redistributed back to another process -->
-  7. The first process is called a map or a mapper process and the second one was called a reduce process.
+1. took the data -->
+2. disdtributed and replicated each piece / triplicated each piece -->
+3. send the pieces of these files to thousands of computers first it was hundreds but then now it's thousands now it's tens of thousands -->
+4. would send the same program to all these computers in the cluster -->
+5. each computer would run the program on its little piece of the file and send the results back. -->
+6. The results would then be sorted & redistributed back to another process -->
+7. The first process is called a map or a mapper process and the second one was called a reduce process.
 - you could do lots and lots of different kinds of handle lots and lots of different kinds of problems and very, very, very large data sets.
 - big data cluster scale linearly.
 - Yahoo then got on board. Yahoo hired someone named Doug Cutting who had been working on a clone or a copy of the Google big data architecture and now that's called Hadoop.
