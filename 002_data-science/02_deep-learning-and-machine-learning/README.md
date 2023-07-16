@@ -1,0 +1,5 @@
+## LEARNING OBJECTIVES
+- The differences between some common Data Science terms, including Deep Learning and Machine Learning.
+- Deep Learning is a type of Machine Learning that simulates human decision-making using neural networks.
+- Machine Learning has many applications, from recommender systems that provide relevant choices for customers on commercial websites, to detailed analysis of financial markets.
+- How to use regression to analyze data.
