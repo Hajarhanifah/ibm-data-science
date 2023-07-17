@@ -1,3 +1,6 @@
+# RESOURCES
+1. [The Final Deliverable](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFMwMTAxRU4tU2tpbGxzTmV0d29yay9sYWJzL01vZHVsZSUyMDMvUmVhZGluZ19UaGVfRmluYWxfRGVsaXZlcmFibGUubWQiLCJ0b29sX3R5cGUiOiJpbnN0cnVjdGlvbmFsLWxhYiIsImFkbWluIjpmYWxzZSwiaWF0IjoxNjgzNzQ0OTM4fQ.OPiejy83RejhiN_pB29hVIbrWYLD0VKaKZAPP17G_Rk)
+
 # LEARNING OBJECTIVES
 - Describe the application of data science in healthcare.
 - Explain how companies can start on their data science journey.
