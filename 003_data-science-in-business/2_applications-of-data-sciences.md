@@ -29,6 +29,27 @@
      - which shows directors and actors they search for.
   - Netflix can be confident that a show will be a hit before filming even begins by analyzing users preference for certain directors and acting talent, and discovering which combinations people enjoy.
   - Netflix knew many of its users had streamed to the work of David Fincher. They also knew that films featuring Robin Wright had always done well, and that the British version of House of Cards was very successful. Netflix knew that significant numbers of people who liked Fincher also liked Wright. All this information combined to suggest that buying the series would be a good investment for the company.
+ 
+## 10
+Cover page
+
+Table of contents
+
+Executive Summary
+
+Introductory section
+
+Methodology section
+
+Results section
+
+Discussion section
+
+Conclusion section
+
+References
+
+Acknowledgment
 
 
 
