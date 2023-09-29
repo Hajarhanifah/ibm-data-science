@@ -8,5 +8,6 @@ https://www.credly.com/badges/742be207-3095-4d55-a11e-f219b1ce3fba
 
 
 
-![Uploading Screen Shot 2023-09-29 at 17.27.26.png…]()
+<img width="808" alt="Screen Shot 2023-09-29 at 17 27 26" src="https://github.com/Hajarhanifah/ibm-data-science/assets/4746119/cb07d88b-cc3e-4b98-9da2-35dbafdd0c20">
+
 
